@@ -6,4 +6,3 @@
 -   linkedin: https://www.linkedin.com/in/nathnael-dereje-a46117254/
 -   mailme: nathandere1357@gmail.com
 -   github: https://github.com/NathanZlion
-- 
