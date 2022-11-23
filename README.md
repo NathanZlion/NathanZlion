@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @NathanZlion
+- 👀 I’m interested in Web Dvelopment, Data Structures, Algorithms.
+- 🌱 I’m currently learning Software Engineering at Addis Ababa Science and Technology University.
+- 📫 How to reach me: 
+- 
+-   linkedin: https://www.linkedin.com/in/nathnael-dereje-a46117254/
+-   mailme: nathandere1357@gmail.com
+-   github: https://github.com/NathanZlion
+- 
