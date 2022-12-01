@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NathanZlion
 - 👀 I’m interested in Web Development, Data Structures, Algorithms...
-- 🌱 I’m currently learning Software Engineering at Addis Ababa Science and Technology University.
+- 🌱 I’m currently studying Software Engineering at Addis Ababa Science and Technology University.
 - 📫 How to reach me: 
 - 
 -   linkedin: https://www.linkedin.com/in/nathnael-dereje-a46117254/
