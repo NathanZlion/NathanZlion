@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NathanZlion
-- 👀 I’m interested in Web Dvelopment, Data Structures, Algorithms.
+- 👀 I’m interested in Web Development, Data Structures, Algorithms...
 - 🌱 I’m currently learning Software Engineering at Addis Ababa Science and Technology University.
 - 📫 How to reach me: 
 - 
