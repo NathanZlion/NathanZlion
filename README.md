@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NathanZlion
+- 👋 Hi, I’m Nathnael.
 - 👀 I’m interested in Web Development, Data Structures, Algorithms...
 - 🌱 I’m currently studying Software Engineering at Addis Ababa Science and Technology University.
 - 📫 How to reach me: 
