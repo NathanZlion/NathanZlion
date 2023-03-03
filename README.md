@@ -3,11 +3,11 @@
 - Currently studying Software Engineering at Addis Ababa Institute of Technology
 
 
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=NathanZlion&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
