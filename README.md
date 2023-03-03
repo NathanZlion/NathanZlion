@@ -8,7 +8,7 @@
 
 
 
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NathanZlion&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>|<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NathanZlion&layout=compact&langs_count=8&theme=radical"/>
+ |<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NathanZlion&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>|<img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NathanZlion&layout=compact&langs_count=8&theme=radical"/>|
 
 
 ## Skills
