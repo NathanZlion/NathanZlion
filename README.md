@@ -1,17 +1,16 @@
 # Hi 👋, I'm Nathnael 🛰️
-## A Passionate Developer and Competitive Programmer
-- Currently studying Software Engineering at Addis Ababa Institute of Technology
 
-
-<p style="width: 50%">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+## A Passionate Developer and Competitive Programmer
+- Currently studying Software Engineering at Addis Ababa Institute of Technology
 
 <p style="width: 50%">
   <img src="https://komarev.com/ghpvc/?username=NathanZlion&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<p align="center">
+<p style="width: 50%">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NathanZlion&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NathanZlion&layout=compact&langs_count=8&theme=radical"/>
 </p>
