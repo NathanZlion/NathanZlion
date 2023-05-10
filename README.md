@@ -36,4 +36,6 @@ A Passionate Developer and Competitive Programmer
   <a href="https://www.linkedin.com/in/nathnael-dereje-a46117254/"><img src="https://img.shields.io/badge/-nathnael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathnael-dereje-a46117254/" alt="LinkedIn Badge"></a>
   <a href="mailto:nathandere1357@gmail.com"><img src="https://img.shields.io/badge/-nathandere1357-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathandere1357@gmail.com" alt="Email Badge"></a>
   <a href="https://github.com/NathanZlion"><img src="https://img.shields.io/badge/-NathanZlion-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/NathanZlion/" alt="GitHub Badge"></a>
+  <a href="https://t.me/Nathanzgreat"><img src="https://img.shields.io/static/v1?label=t&message=Telegram&color=blue&link=https://t.me/Nathanzgreat" alt="Telegram Badge"></a>
+</p>
 </p>
