@@ -18,6 +18,7 @@ A Passionate Developer and Competitive Programmer
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#) 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
+[![Dart](https://img.shields.io/badge/-Dart-1022D0?style=flat&logo=Dart&logoColor=black)](#)
 
 🌐 Web Development:
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](#)
