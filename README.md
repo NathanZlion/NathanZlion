@@ -29,7 +29,6 @@ A Passionate Developer and Competitive Programmer
 
 🛠️ Tools:
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](#)
 
 <h3 align="center">Let's Connect!</h3>
